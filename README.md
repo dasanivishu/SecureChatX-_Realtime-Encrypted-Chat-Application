@@ -37,7 +37,7 @@ python client.py
 ```
 
 
-For more details check the documentation above.. 
+
 
 
 
